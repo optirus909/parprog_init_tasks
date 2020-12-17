@@ -1,1 +1,5 @@
-# parprog_init_tasks
+# Вводные задачи по параллельному программированию
+
+- Задача 1 - `hello.c`
+- Задача 2 - `series.c`
+- Задача 3 - `circular_forwarding.c`
